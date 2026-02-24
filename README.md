@@ -55,16 +55,16 @@ _\* Indicates an operating system and release that previously was supported by t
 
 ### Installation
 
-1. Edit the `config.env` file
-
-2. Clone the repo/Download the repo
+1. Clone the repo/Download the repo
    ```sh
    git clone https://github.com/VynzzDev/Pterodactyl-Autobackup.git
    ```
-3. Go to the folder
+2. Go to the folder
    ```sh
    cd Pterodactyl-Autobackup
    ```
+3. Edit the `config.env` file
+
 4. Give permission
    ```sh
    chmod +x install.sh
