@@ -78,6 +78,8 @@ _\* Indicates an operating system and release that previously was supported by t
    bash install.sh
    ```
 
+That's it!
+
 _Note: On some systems, it's required to be already logged in as root before executing the one-line command (where `sudo` is in front of the command does not work)._
 
 ###
