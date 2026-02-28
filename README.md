@@ -28,7 +28,7 @@ You are free to customize and add features as you like.
 
 ## Preview
 
-To see a preview example of this script, join my discord server [↗️](https://discord.gg/fPqWr3Ax98)
+To see a preview of this script, join my discord server [↗️](https://discord.gg/fPqWr3Ax98)
 
 
 ### Supported wings operating systems
