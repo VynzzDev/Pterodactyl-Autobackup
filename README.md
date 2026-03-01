@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/1431534928352247918/1475698849199952173/output-onlinegiftools.gif?ex=699e6f26&is=699d1da6&hm=6e85709cab637c90e933c1e916d2b692989ab43a99e56f5bbf2b0661eb9ca322&=&width=640&height=640"  />
+  <img height="150" src="https://files.catbox.moe/61s18d.gif"  />
 </div>
 
 ###
